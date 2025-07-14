@@ -12,9 +12,7 @@ key features, tech stack, and a direct link to the GitHub repo.
 
 ## Demo
 
-![Flip-card demo](https://github.com/AyaneTakagi/Limelight-Internship-CSS-3D-Clickable-Flip-Card)
-
----
+[![Live Demo Screenshot](images/Demo.jpg)](https://ayanetakagi.github.io/Limelight-Internship-CSS-3D-Clickable-Flip-Card/)
 
 ## Credits
 
