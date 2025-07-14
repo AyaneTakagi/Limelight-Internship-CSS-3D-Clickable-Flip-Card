@@ -1,31 +1,26 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# CSS 3D Clickable Flip-Card Portfolio
 
+A one-page portfolio built on the Stellar (HTML5 UP) template, featuring interactive flip-cards  
+that showcase three of my Python projects. Each card flips over to reveal an overview,  
+key features, tech stack, and a direct link to the GitHub repo.
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+## How It Works
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- Pure CSS 3D perspective + `<input type="checkbox">` toggle  
+- Fully responsive: flex-wrapped grid of cards  
+- No JavaScript required for the flip itself
 
-(* = not included)
+## Demo
 
-AJ
-aj@lkn.io | @ajlkn
+![Flip-card demo](path/to/demo.gif)
 
+---
 
-Credits:
+## Credits
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Stellar by HTML5 UP — html5up.net | @ajlkn  
+Demo images courtesy of Unsplash  
+Icons by Font Awesome  
+Scripts: jQuery, Scrollex, Responsive Tools  
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+*Free for personal and commercial use under the CC A 3.0 license.*  
